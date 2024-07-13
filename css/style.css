@@ -28,15 +28,15 @@ body {
     box-sizing: border-box;
     box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.514);
     border-radius: 30px;
-    height: 53vh;
+    height: 57vh;
     width: 75%;
 }
 
 .logo {
     margin: 20px;
     margin-bottom: 30px;
-    max-width: 30vw;
-    max-height: 10vh;
+    max-width: 50vw;
+    max-height: 20vh;
 }
 
 h3 {
@@ -169,7 +169,7 @@ i {
 }
 
 .appstore {
-    max-width: 23vw;
+    max-width: 23.2vw;
     max-height: 5vh;
 }
 .playstore {
